@@ -10,6 +10,3 @@
   
 ## 🔧 **Tools**
   ![Tools](https://skillicons.dev/icons?i=git,npm,vscode,webpack,vite,github,bash,yarn,pnpm&theme=light)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakityc)
